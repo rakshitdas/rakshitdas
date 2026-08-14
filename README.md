@@ -14,27 +14,59 @@
 
 ## 🧭 About Me
 
-<table>
-<tr>
-<td width="60%">
+```bash
+┌──(rakshit㉿github)-[~/about]
+└─$ whoami
 
-### 👨‍💻 `rakshit@github:~$ whoami`
+Rakshit Das
+B.Tech CSE Undergraduate @ Quantum University, Roorkee
+Graduation: 2028
 
-```yaml
-name: Rakshit Das
-education: B.Tech CSE
-university: Quantum University, Roorkee
-graduation: 2028
+
+┌──(rakshit㉿github)-[~/roles]
+└─$ cat leadership.txt
+
+[ PRESIDENT ]  Quantum University Alumni Association
+                └─ Alumni Engagement
+                └─ Student ↔ Alumni Networking
+                └─ Events & Seminars
+                └─ Community Building
+
+[ PRESIDENT ]  International Partnership Office
+                └─ Student Team Leadership
+                └─ International University Collaboration
+                └─ Academic Partnerships
+                └─ MoU Initiatives
+
+
+┌──(rakshit㉿github)-[~/focus]
+└─$ ./current_focus.sh
+
+→ Computer Science & Software Development
+→ Leadership & Team Building
+→ Community & Network Building
+→ International Collaboration
+→ Learning • Building • Leading
+
+
+┌──(rakshit㉿github)-[~/philosophy]
+└─$ echo $MINDSET
+
+"Technology creates possibilities.
+ Leadership turns possibilities into impact."
+```
+
+---
 
 ## ⚡ What I Do
 
-| Area                        | Focus                                                   |
-| --------------------------- | ------------------------------------------------------- |
-| 💻 **Computer Science**     | Programming · Software Development · Technical Learning |
-| 🧭 **Leadership**           | Team Management · Strategy · Decision Making            |
-| 🤝 **Community**            | Networking · Student Engagement · Alumni Relations      |
-| 🌐 **Global Collaboration** | International Partnerships · Academic Relations         |
-| 🎤 **Events & Initiatives** | Seminars · Interaction Programs · Institutional Events  |
+| Area | Focus |
+|---|---|
+| 💻 **Computer Science** | Programming · Software Development · Technical Learning |
+| 🧭 **Leadership** | Team Management · Strategy · Decision Making |
+| 🤝 **Community** | Networking · Student Engagement · Alumni Relations |
+| 🌐 **Global Collaboration** | International Partnerships · Academic Relations |
+| 🎤 **Events & Initiatives** | Seminars · Interaction Programs · Institutional Events |
 
 ---
 
@@ -46,11 +78,11 @@ graduation: 2028
 
 Leading initiatives focused on strengthening the relationship between **Quantum University's alumni and current students**.
 
-* Building alumni–student networking opportunities
-* Engaging distinguished and reputed alumni
-* Planning and hosting alumni interaction events
-* Organizing seminars and knowledge-sharing initiatives
-* Leading and coordinating the QUAA student team
+- Building alumni–student networking opportunities
+- Engaging distinguished and reputed alumni
+- Planning and hosting alumni interaction events
+- Organizing seminars and knowledge-sharing initiatives
+- Leading and coordinating the QUAA student team
 
 ---
 
@@ -60,11 +92,11 @@ Leading initiatives focused on strengthening the relationship between **Quantum 
 
 Working with the IPO student team to support **international academic collaboration** and institutional partnerships.
 
-* Coordinating the IPO student team
-* Initiating international university collaborations
-* Supporting overseas academic partnerships
-* Assisting with Memorandum of Understanding (MoU) initiatives
-* Connecting students and institutions with global opportunities
+- Coordinating the IPO student team
+- Initiating international university collaborations
+- Supporting overseas academic partnerships
+- Assisting with Memorandum of Understanding (MoU) initiatives
+- Connecting students and institutions with global opportunities
 
 ---
 
@@ -126,13 +158,16 @@ My goal is to gradually transform this profile from a **learning space** into a 
 
 > Projects will be added here as I build them.
 
-**💡 Projects**
+### 💡 Projects
+
 Practical applications, experiments, and things I'm building while learning.
 
-**🌐 Open Source**
+### 🌐 Open Source
+
 Exploring open-source contribution and collaborative development.
 
-**🧪 Experiments**
+### 🧪 Experiments
+
 Small projects, technical experiments, and things I'm curious about.
 
 ---
@@ -150,11 +185,11 @@ I'm particularly interested in:
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rakshit-das-49a57b328/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:president.quaa@quantumuniversity.edu.in">
-    <img src="" />
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
