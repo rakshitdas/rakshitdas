@@ -16,11 +16,11 @@
 
 <table>
 <tr>
-<td width="100%" style="background-color:#1e1e1e; border:1px solid #3c3c3c; border-radius:10px;">
+<td style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px;">
 
 <table width="100%">
 <tr>
-<td style="background-color:#252526; color:#cccccc; padding:8px 12px; border-bottom:1px solid #3c3c3c;">
+<td style="background-color:#161b22; color:#8b949e; padding:10px 14px; border-bottom:1px solid #30363d;">
 🔴 🟡 🟢 &nbsp;&nbsp; <strong>rakshit@github — about.md</strong>
 </td>
 </tr>
@@ -28,50 +28,43 @@
 
 <table width="100%">
 <tr>
-<td width="20%" valign="top" style="background-color:#181818; color:#858585; padding:16px;">
+<td width="21%" valign="top" style="background-color:#010409; color:#8b949e; padding:16px;">
 
 <strong>EXPLORER</strong>
 
-📁 RAKSHIT  
-&nbsp;&nbsp;├── 📄 about.md  
-&nbsp;&nbsp;├── 📄 roles.yml  
-&nbsp;&nbsp;└── 📄 focus.sh  
+<br><br>
+
+📁 <strong>RAKSHIT</strong><br>
+&nbsp;&nbsp;├── 📄 about.md<br>
+&nbsp;&nbsp;├── 📄 roles.yml<br>
+&nbsp;&nbsp;└── 📄 focus.sh
+
+<br><br>
+
+<span style="color:#58a6ff;">●</span> <strong>ACTIVE</strong>
 
 </td>
 
-<td width="80%" valign="top" style="background-color:#1e1e1e; color:#d4d4d4; padding:18px;">
+<td width="79%" valign="top" style="background-color:#0d1117; color:#c9d1d9; padding:18px;">
 
-<span style="color:#858585;">01</span> <span style="color:#569CD6;"># Rakshit Das</span><br>
-<span style="color:#858585;">02</span><br>
-<span style="color:#858585;">03</span> <span style="color:#9CDCFE;">role</span>: <span style="color:#CE9178;">CSE Undergraduate</span><br>
-<span style="color:#858585;">04</span> <span style="color:#9CDCFE;">university</span>: <span style="color:#CE9178;">Quantum University, Roorkee</span><br>
-<span style="color:#858585;">05</span> <span style="color:#9CDCFE;">graduation</span>: <span style="color:#CE9178;">2028</span><br>
-<span style="color:#858585;">06</span><br>
-<span style="color:#858585;">07</span> <span style="color:#6A9955;">// leadership</span><br>
-<span style="color:#858585;">08</span> <span style="color:#C586C0;">President</span>: <span style="color:#4EC9B0;">Quantum University Alumni Association</span><br>
-<span style="color:#858585;">09</span> &nbsp;&nbsp;→ Alumni Engagement<br>
-<span style="color:#858585;">10</span> &nbsp;&nbsp;→ Student ↔ Alumni Networking<br>
-<span style="color:#858585;">11</span> &nbsp;&nbsp;→ Events & Seminars<br>
-<span style="color:#858585;">12</span> &nbsp;&nbsp;→ Community Building<br>
-<span style="color:#858585;">13</span><br>
-<span style="color:#858585;">14</span> <span style="color:#C586C0;">President</span>: <span style="color:#4EC9B0;">International Partnership Office</span><br>
-<span style="color:#858585;">15</span> &nbsp;&nbsp;→ Student Team Leadership<br>
-<span style="color:#858585;">16</span> &nbsp;&nbsp;→ International University Collaboration<br>
-<span style="color:#858585;">17</span> &nbsp;&nbsp;→ Academic Partnerships<br>
-<span style="color:#858585;">18</span> &nbsp;&nbsp;→ MoU Initiatives<br>
-
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td style="background-color:#181818; color:#cccccc; padding:12px 18px; border-top:1px solid #3c3c3c;">
-
-<span style="color:#6A9955;">// terminal</span><br>
-<span style="color:#569CD6;">rakshit@github</span>:<span style="color:#4EC9B0;">~</span>$ <strong>./current_focus.sh</strong><br>
-<span style="color:#DCDCAA;">→ Computer Science</span> &nbsp; <span style="color:#DCDCAA;">→ Leadership</span> &nbsp; <span style="color:#DCDCAA;">→ Team Building</span><br>
-<span style="color:#DCDCAA;">→ Community</span> &nbsp; <span style="color:#DCDCAA;">→ Global Collaboration</span>
+<span style="color:#484f58;">01</span>&nbsp; <span style="color:#79c0ff;"># Rakshit Das</span><br>
+<span style="color:#484f58;">02</span><br>
+<span style="color:#484f58;">03</span>&nbsp; <span style="color:#d2a8ff;">role</span>: <span style="color:#a5d6ff;">CSE Undergraduate</span><br>
+<span style="color:#484f58;">04</span>&nbsp; <span style="color:#d2a8ff;">university</span>: <span style="color:#a5d6ff;">Quantum University, Roorkee</span><br>
+<span style="color:#484f58;">05</span>&nbsp; <span style="color:#d2a8ff;">graduation</span>: <span style="color:#a5d6ff;">2028</span><br>
+<span style="color:#484f58;">06</span><br>
+<span style="color:#484f58;">07</span>&nbsp; <span style="color:#7ee787;">// leadership</span><br>
+<span style="color:#484f58;">08</span>&nbsp; <span style="color:#ff7b72;">◆ PRESIDENT</span>&nbsp; <span style="color:#79c0ff;">Quantum University Alumni Association</span><br>
+<span style="color:#484f58;">09</span>&nbsp;&nbsp;&nbsp;&nbsp;→ Alumni Engagement<br>
+<span style="color:#484f58;">10</span>&nbsp;&nbsp;&nbsp;&nbsp;→ Student ↔ Alumni Networking<br>
+<span style="color:#484f58;">11</span>&nbsp;&nbsp;&nbsp;&nbsp;→ Events & Seminars<br>
+<span style="color:#484f58;">12</span>&nbsp;&nbsp;&nbsp;&nbsp;→ Community Building<br>
+<span style="color:#484f58;">13</span><br>
+<span style="color:#484f58;">14</span>&nbsp; <span style="color:#ff7b72;">◆ PRESIDENT</span>&nbsp; <span style="color:#79c0ff;">International Partnership Office</span><br>
+<span style="color:#484f58;">15</span>&nbsp;&nbsp;&nbsp;&nbsp;→ Student Team Leadership<br>
+<span style="color:#484f58;">16</span>&nbsp;&nbsp;&nbsp;&nbsp;→ International University Collaboration<br>
+<span style="color:#484f58;">17</span>&nbsp;&nbsp;&nbsp;&nbsp;→ Academic Partnerships<br>
+<span style="color:#484f58;">18</span>&nbsp;&nbsp;&nbsp;&nbsp;→ MoU Initiatives<br>
 
 </td>
 </tr>
@@ -79,7 +72,23 @@
 
 <table width="100%">
 <tr>
-<td align="center" style="background-color:#252526; color:#9CDCFE; padding:12px; border-top:1px solid #3c3c3c;">
+<td style="background-color:#161b22; color:#c9d1d9; padding:14px 18px; border-top:1px solid #30363d;">
+
+<span style="color:#7ee787;">// terminal</span><br>
+<span style="color:#79c0ff;">rakshit@github</span>:<span style="color:#d2a8ff;">~</span>$ <strong>./current_focus.sh</strong><br>
+<span style="color:#58a6ff;">→ Computer Science</span>&nbsp;&nbsp;
+<span style="color:#58a6ff;">→ Leadership</span>&nbsp;&nbsp;
+<span style="color:#58a6ff;">→ Team Building</span><br>
+<span style="color:#58a6ff;">→ Community</span>&nbsp;&nbsp;
+<span style="color:#58a6ff;">→ Global Collaboration</span>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="center" style="background-color:#21262d; color:#58a6ff; padding:13px; border-top:1px solid #30363d;">
 <strong>Learning → Building → Leading</strong>
 </td>
 </tr>
@@ -88,6 +97,7 @@
 </td>
 </tr>
 </table>
+
 
 ---
 
@@ -218,10 +228,10 @@ I'm particularly interested in:
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/rakshit-das-49a57b328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:president.quaa@quantumuniversity.edu.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
