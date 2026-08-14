@@ -14,23 +14,50 @@
 
 ## 🧭 About Me
 
-I'm a Computer Science undergraduate at **Quantum University, Roorkee**, graduating in **2028**.
+## 🧭 About Me
 
-While I'm building my foundation in Computer Science and software development, much of my experience so far has been in **leadership, team management, community building, networking, and institutional collaboration**.
+```bash
+┌──(rakshit㉿github)-[~/about]
+└─$ whoami
 
-I enjoy bringing people together, turning ideas into initiatives, and creating systems that help teams and communities grow.
+Rakshit Das
+B.Tech CSE Undergraduate @ Quantum University, Roorkee
+Graduation: 2028
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   TECHNOLOGY     ×     LEADERSHIP     ×     PEOPLE      │
-│                                                         │
-│        Learn → Build → Lead → Connect → Grow            │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+
+┌──(rakshit㉿github)-[~/roles]
+└─$ cat leadership.txt
+
+[ PRESIDENT ]  Quantum University Alumni Association
+                └─ Alumni Engagement
+                └─ Student ↔ Alumni Networking
+                └─ Events & Seminars
+                └─ Community Building
+
+[ PRESIDENT ]  International Partnership Office
+                └─ Student Team Leadership
+                └─ International University Collaboration
+                └─ Academic Partnerships
+                └─ MoU Initiatives
+
+
+┌──(rakshit㉿github)-[~/focus]
+└─$ ./current_focus.sh
+
+→ Computer Science & Software Development
+→ Leadership & Team Building
+→ Community & Network Building
+→ International Collaboration
+→ Learning • Building • Leading
+
+
+┌──(rakshit㉿github)-[~/philosophy]
+└─$ echo $MINDSET
+
+"Technology creates possibilities.
+ Leadership turns possibilities into impact."
 ```
 
----
 
 ## ⚡ What I Do
 
