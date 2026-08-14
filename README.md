@@ -14,50 +14,17 @@
 
 ## 🧭 About Me
 
-## 🧭 About Me
+<table>
+<tr>
+<td width="60%">
 
-```bash
-┌──(rakshit㉿github)-[~/about]
-└─$ whoami
+### 👨‍💻 `rakshit@github:~$ whoami`
 
-Rakshit Das
-B.Tech CSE Undergraduate @ Quantum University, Roorkee
-Graduation: 2028
-
-
-┌──(rakshit㉿github)-[~/roles]
-└─$ cat leadership.txt
-
-[ PRESIDENT ]  Quantum University Alumni Association
-                └─ Alumni Engagement
-                └─ Student ↔ Alumni Networking
-                └─ Events & Seminars
-                └─ Community Building
-
-[ PRESIDENT ]  International Partnership Office
-                └─ Student Team Leadership
-                └─ International University Collaboration
-                └─ Academic Partnerships
-                └─ MoU Initiatives
-
-
-┌──(rakshit㉿github)-[~/focus]
-└─$ ./current_focus.sh
-
-→ Computer Science & Software Development
-→ Leadership & Team Building
-→ Community & Network Building
-→ International Collaboration
-→ Learning • Building • Leading
-
-
-┌──(rakshit㉿github)-[~/philosophy]
-└─$ echo $MINDSET
-
-"Technology creates possibilities.
- Leadership turns possibilities into impact."
-```
-
+```yaml
+name: Rakshit Das
+education: B.Tech CSE
+university: Quantum University, Roorkee
+graduation: 2028
 
 ## ⚡ What I Do
 
